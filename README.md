@@ -7,5 +7,6 @@
 iOS：https://www.zhihu.com/question/19841890 <br>
 Android：https://www.zhihu.com/question/20718551/answer/21024687 <br>
 
+### 2018-1-28
 #### 为什么iOS比Android流畅
 http://blog.renren.com/share/324174594/11527590273
