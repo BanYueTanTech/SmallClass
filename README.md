@@ -16,5 +16,6 @@ http://blog.renren.com/share/324174594/11527590273
 http://blog.csdn.net/kenkao/article/details/53906021
 
 ### 2018-3-16
-#### 小程序技术实现和发展报告
-[发展报告](http://tech.caijing.com.cn/20170828/4322815.shtml)
+#### 小程序特点和发展报告
+[技术特点](http://www.360doc.com/content/17/0103/03/7972755_619648599.shtml)
+[发展报告](http://www.aldzs.com/assets/analysis/analysis_12.pdf)
