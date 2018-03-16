@@ -17,5 +17,5 @@ http://blog.csdn.net/kenkao/article/details/53906021
 
 ### 2018-3-16
 #### 小程序特点和发展报告
-[技术特点](http://www.360doc.com/content/17/0103/03/7972755_619648599.shtml)
+[技术特点](http://www.360doc.com/content/17/0103/03/7972755_619648599.shtml)  
 [发展报告](http://www.aldzs.com/assets/analysis/analysis_12.pdf)
