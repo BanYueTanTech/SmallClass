@@ -19,3 +19,8 @@
 #### 小程序特点和发展报告
 [技术特点](http://www.360doc.com/content/17/0103/03/7972755_619648599.shtml)
 [发展报告](http://www.aldzs.com/assets/analysis/analysis_12.pdf)
+
+### 2018-5-3
+#### 产品经理究竟是干什么的
+
+[产品经理究竟是干什么的](http://www.woshipm.com/pmd/211945.html)
