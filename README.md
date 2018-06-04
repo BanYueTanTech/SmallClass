@@ -24,3 +24,8 @@
 #### 产品经理究竟是干什么的
 
 [产品经理究竟是干什么的](http://www.woshipm.com/pmd/211945.html)
+
+### 2018-6-4
+#### 测试工程师到底应该做什么？
+
+[测试工程师到底应该做什么？](https://www.cnblogs.com/zhouxuchen/p/6885190.html)
